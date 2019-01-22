@@ -1,0 +1,7 @@
+{
+  "name": "fantasyinsertsubjecthere",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
